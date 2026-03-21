@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Khalil Hamimid
 
-🎓 Data Engineering Student @ ENSAH (Morocco)  
+🎓 Data Engineering Student  
 💡 Passionate about Big Data, AI, and building real-world data systems  
-🚀 Currently looking for a Data Engineering / AI Internship  
 
 ---
 
