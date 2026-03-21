@@ -103,9 +103,9 @@ Application for managing and analyzing medical records.
 
 ## 📫 Contact Me
 
-📧 khalilhamimid05@gmail.com  
-💻 GitHub: https://github.com/Khalilozich123  
-🔗 LinkedIn: (add your link here)
+- 📧 [khalilhamimid05@gmail.com](mailto:khalilhamimid05@gmail.com)  
+- 💻 [GitHub](https://github.com/Khalilozich123)  
+- 🔗 [LinkedIn](www.linkedin.com/in/khalil-hamimid)
 
 ---
 
