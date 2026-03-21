@@ -14,25 +14,39 @@ I enjoy working on end-to-end projects — from data ingestion to processing and
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Stack
 
-**Languages**  
-Python • Java • C  
+### 🤖 AI & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
 
-**Data Engineering & Big Data**  
-Hadoop (HDFS) • Apache Spark • Apache Airflow • Trino  
+### ⚙️ Data Engineering & Big Data
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-**Backend & Web**  
-Spring Boot • Django • PHP • HTML • CSS • JavaScript  
+### 💻 Backend & Web
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-**Databases**  
-PostgreSQL • MySQL • Oracle • MongoDB  
+### 🧠 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 
-**AI / Data Science**  
-Pandas • NumPy • Scikit-learn • Matplotlib  
-
-**Tools & DevOps**  
-Docker • Git • Linux  
+### 🛠️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
@@ -43,7 +57,7 @@ End-to-end data pipeline automating supermarket restocking using distributed pro
 
 - Built with Hadoop, Airflow, PostgreSQL, Trino, Docker  
 - Automated ingestion, processing, and decision-making  
-- Focus on scalability and data orchestration  
+- Focus on scalability and orchestration  
 
 👉 [View Project](#)
 
@@ -63,8 +77,8 @@ Desktop application that extracts and structures CV data using LLMs.
 ### 🔹 Medical Data Management System
 Application for managing and analyzing medical records.
 
-- Built using Python, PHP, JavaScript  
 - Designed for structured data handling in hospital environments  
+- Built using Python, PHP, JavaScript  
 
 👉 [View Project](#)
 
@@ -87,19 +101,12 @@ Application for managing and analyzing medical records.
 
 ---
 
-## 🎯 Goals
-
-- Contribute to impactful data-driven projects  
-- Deepen expertise in Data Engineering and AI  
-- Join a team where I can learn and grow as an engineer  
-
----
 
 ## 📫 Contact Me
 
 📧 khalilhamimid05@gmail.com  
-🔗 [LinkedIn](#)  
-💻 [GitHub](https://github.com/Khalilozich123)
+💻 GitHub: https://github.com/Khalilozich123  
+🔗 LinkedIn: (add your link here)
 
 ---
 
