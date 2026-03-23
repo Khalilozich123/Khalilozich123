@@ -76,7 +76,6 @@ Application for managing and analyzing medical records.
 - Designed for structured data handling in hospital environments  
 - Built using Python, PHP, JavaScript  
 
-👉 [View Project](#)
 
 ---
 
