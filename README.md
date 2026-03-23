@@ -58,8 +58,6 @@ End-to-end data pipeline automating supermarket restocking using distributed pro
 - Automated ingestion, processing, and decision-making  
 - Focus on scalability and orchestration  
 
-👉 [View Project](#)
-
 ---
 
 ### 🔹 AI-Powered CV Parser
@@ -69,7 +67,6 @@ Desktop application that extracts and structures CV data using LLMs.
 - Automated structured CV generation  
 - Built with Python (PySide, HTML/CSS)  
 
-👉 [View Project](#)
 
 ---
 
@@ -83,14 +80,6 @@ Application for managing and analyzing medical records.
 
 ---
 
-## 💼 Experience
-
-**AI Intern @ Astek Maroc** *(July 2025 – August 2025)*  
-- Developed an LLM-based CV parsing application  
-- Integrated Mistral API for fast and accurate data extraction  
-- Automated CV generation to support recruitment processes  
-
----
 
 ## 📊 What I'm Currently Working On
 
