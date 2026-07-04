@@ -75,6 +75,10 @@ Real-time computer-vision system detecting driver drowsiness by fusing a CNN eye
 Full-stack web app for text annotation with multi-annotator assignment, inter-annotator agreement (Fleiss' Kappa), and NLP model training.
 > `Spring Boot` · `MySQL` · `Python` · `Scikit-learn`
 
+### 💼 [Job Intelligent — Job-Market Intelligence Platform](https://github.com/kaoutharaa/job-intelligent)
+End-to-end job-market platform for data & AI roles: daily LinkedIn + France-Travail ingestion refined through a Medallion (Bronze → Silver → Gold) ETL, served via a FastAPI backend with JWT auth and TF-IDF/CV-based job recommendations, plus a React dashboard.
+> `Airflow` · `PostgreSQL` · `Selenium` · `FastAPI` · `scikit-learn` · `React` · `Docker`
+
 ### 📦 Big Data Supply Chain Pipeline
 End-to-end ETL pipeline automating supermarket restocking through distributed processing and orchestration.
 > `Hadoop` · `Airflow` · `Trino` · `PostgreSQL` · `Docker`
