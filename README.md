@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Khalil Hamimid
 
 🎓 **Data Engineering Student** @ ENSA Al Hoceima  
-⚙️ Building scalable data pipelines & real-time systems • 🤖 Applying AI to real-world problems  
-🔎 Seeking a **PFA internship** in Data Engineering / Data Science
+⚙️ Building scalable data pipelines & real-time systems
+🤖 Applying AI to real-world problems  
+
 
 ---
 
@@ -11,8 +12,7 @@
 Second-year Data Engineering student specialized in **Data Engineering** and **Artificial Intelligence**. I build **end-to-end data systems** — from ingestion and distributed processing to real-time streaming and intelligent insights — and enjoy turning raw data into production-ready pipelines.
 
 - 🔭 Focused on **Big Data** (Hadoop, Spark, Kafka, Flink, Airflow) and **ML/DL** (NLP, Computer Vision, LLMs, RAG)
-- 🌱 Currently deepening my skills in **distributed streaming** and **MLOps**
-- 💬 Ask me about data pipelines, stream processing, or applied deep learning
+- 🌱 Currently deepening my skills in **distributed streaming** and **AI Agents**
 
 ---
 
@@ -81,12 +81,6 @@ End-to-end ETL pipeline automating supermarket restocking through distributed pr
 
 ---
 
-## 📈 GitHub Stats
-
-![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khalilozich123&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalilozich123&layout=compact&hide_border=true)
-
----
 
 ## 📫 Contact
 
