@@ -1,100 +1,99 @@
 # 👋 Hi, I'm Khalil Hamimid
 
-🎓 Data Engineering Student  
-💡 Passionate about Big Data, AI, and building real-world data systems  
+🎓 **Data Engineering Student** @ ENSA Al Hoceima  
+⚙️ Building scalable data pipelines & real-time systems • 🤖 Applying AI to real-world problems  
+🔎 Seeking a **PFA internship** in Data Engineering / Data Science
 
 ---
 
 ## 🧠 About Me
 
-I’m a second-year Data Engineering student with a strong interest in designing scalable data systems and integrating AI into real-world applications.
+Second-year Data Engineering student specialized in **Data Engineering** and **Artificial Intelligence**. I build **end-to-end data systems** — from ingestion and distributed processing to real-time streaming and intelligent insights — and enjoy turning raw data into production-ready pipelines.
 
-I enjoy working on end-to-end projects — from data ingestion to processing and intelligent insights — using modern tools like Hadoop, Airflow, and LLMs.
+- 🔭 Focused on **Big Data** (Hadoop, Spark, Kafka, Flink, Airflow) and **ML/DL** (NLP, Computer Vision, LLMs, RAG)
+- 🌱 Currently deepening my skills in **distributed streaming** and **MLOps**
+- 💬 Ask me about data pipelines, stream processing, or applied deep learning
 
 ---
 
-## 🧰 Technical Stack
+## 🧰 Tech Stack
 
-### 🤖 AI & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Data Engineering & Big Data
-![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+**Data Engineering & Big Data**  
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
 
-### 💻 Backend & Web
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+**AI & Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-8A2BE2?style=for-the-badge)
 
-### 🧠 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+**Backend & Web**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Big Data Supply Chain Pipeline
-End-to-end data pipeline automating supermarket restocking using distributed processing.
+### ⚡ [TaaSim — Real-Time Streaming Pipeline](https://github.com/Khalilozich123/TaaSim)
+Event-driven streaming platform simulating a taxi-dispatch system: GPS ingestion & normalization, demand aggregation, trip matching, and ML-based demand forecasting.
+> `Kafka` · `Flink` · `Spark` · `Cassandra` · `FastAPI` · `Docker`
 
-- Built with Hadoop, Airflow, PostgreSQL, Trino, Docker  
-- Automated ingestion, processing, and decision-making  
-- Focus on scalability and orchestration  
+### 🧠 [Drowsiness Detection System](https://github.com/Khalilozich123/Drowsiness-Detection-System)
+Real-time computer-vision system detecting driver drowsiness by fusing a CNN eye-state classifier with the Eye Aspect Ratio (EAR), with live alerting.
+> `Python` · `TensorFlow/Keras` · `OpenCV` · `MediaPipe`
 
----
+### 📝 [Collaborative NLP Annotation Platform](https://github.com/Khalilozich123/Annotation)
+Full-stack web app for text annotation with multi-annotator assignment, inter-annotator agreement (Fleiss' Kappa), and NLP model training.
+> `Spring Boot` · `MySQL` · `Python` · `Scikit-learn`
 
-### 🔹 AI-Powered CV Parser
-Desktop application that extracts and structures CV data using LLMs.
-
-- Integrated Mistral API for multi-format parsing (PDF, Word, images)  
-- Automated structured CV generation  
-- Built with Python (PySide, HTML/CSS)  
-
-
----
-
-### 🔹 Medical Data Management System
-Application for managing and analyzing medical records.
-
-- Designed for structured data handling in hospital environments  
-- Built using Python, PHP, JavaScript  
-
+### 📦 Big Data Supply Chain Pipeline
+End-to-end ETL pipeline automating supermarket restocking through distributed processing and orchestration.
+> `Hadoop` · `Airflow` · `Trino` · `PostgreSQL` · `Docker`
 
 ---
 
+## 📈 GitHub Stats
 
-## 📊 What I'm Currently Working On
-
-- Improving my skills in distributed data systems  
-- Exploring advanced AI applications (LLMs, RAG)  
-- Building scalable and production-ready data pipelines  
+![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khalilozich123&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalilozich123&layout=compact&hide_border=true)
 
 ---
 
-
-## 📫 Contact Me
+## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalilhamimid05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Khalilozich123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khalil-hamimid)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khalilozich123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil-hamimid)
 
 ---
 
-⭐ *Feel free to explore my repositories and projects!*
+⭐ *Feel free to explore my repositories!*
